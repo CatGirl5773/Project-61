@@ -1,0 +1,112 @@
+body{
+background-repeat: no-repeat;
+text-align: center;
+}
+.line{
+background-color: #000;
+height: 6px;
+width: 70px;
+margin: 8px auto;
+}
+#me{
+border-radius: 200px;
+height: 200px;
+width: 175px;
+}
+h1{
+text-shadow: 2px 2px 5px purple;
+font-size: 40px;
+}
+h2{
+font-size: 35px;
+}
+.menu{
+font-family: 'Akronim', cursive;
+font-size: 20px;
+float: right;
+overflow: hidden;
+position: fixed;
+cursor: pointer;
+z-index: 10;
+right: 8px;
+background-color: aquamarine;
+width: 525;
+padding: 0px;
+}
+.link{
+display: inline-block;
+padding-right: 10px;
+padding-left: 10px;
+}
+a{
+text-decoration: none;
+color:fuchsia;
+}
+.link:hover{
+background-color: aqua;
+}
+p{
+font-size: 25px;
+}
+iframe{
+margin: 20px;
+}
+.video{
+font-size: 20px;
+}
+#heading{
+background: linear-gradient(#d7bbff 0%, #94bee9 100%);
+padding: 50px;
+}
+#about{
+background: linear-gradient(#ffff00 0%, #53ff1a 100%);
+padding: 50px;
+}
+#myfavoritehobbyreviews{
+background: linear-gradient(#ff4d4d 0%, #ff794d 100%);
+padding: 50px;
+}
+#mywork{
+background: linear-gradient(#94bee9 0%, #d7bbff 100%);
+padding: 50px;
+}
+#inspiration{
+background: linear-gradient(#53ff1a 0%, #ffff00 100%);
+padding: 50px;
+}
+#contact{
+background: linear-gradient(#ff794d 0%, #ff4d4d 100%);
+padding: 50px;
+}
+#warriors{
+margin-left: 25px;
+}
+#warriors{
+height: 642px;
+transition: transform 0.2s;
+border-style: solid;
+border-width: 25px;
+border-color:darkturquoise;
+}
+#erinhunter{
+transition: transform 0.2s;
+border-style: solid;
+border-width: 25px;
+border-color:darkturquoise;
+}
+img:hover{
+transform: scale(0.9);
+}
+h3{
+color: aliceblue !important;
+}
+#mail{
+transition: transform 0.2s;
+height: 30px;
+margin-right: 10px;
+}
+#instagram{
+transition: transform 0.2s;
+height: 30px;
+margin-right: 10px;
+}
